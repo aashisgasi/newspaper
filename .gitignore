@@ -1,10 +1,16 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python,django,visualstudiocode,linux,macos,windows
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,django,visualstudiocode,linux,macos,windows
 
+
+#git add .
+#git commit -m "Message"
+#git push origin
 ### Django ###
 *.log
 *.pot
 *.pyc
+
+
 __pycache__/
 local_settings.py
 # db.sqlite3
